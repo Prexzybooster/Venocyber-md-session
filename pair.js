@@ -60,17 +60,17 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN PREXZY-V1 』*
+║ *『 WOW YOU CHOOSEN PREXZY-MD-V1 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@prexzyvilla_
 ║❒ *Owner:* _https://wa.me/2349159895444_
-║❒ *Repo:* _https://github.com/prexzybooster/prexzy-v1_
+║❒ *Repo:* _https://github.com/prexzybooster/prexzy-md-v1_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/HbJKslCx60EEM36tD61zAb_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04_
-║❒ *Plugins:* _https://github.com/prexzybooster/prexzybooster-v1-plugins_
+║❒ *Plugins:* _https://github.com/prexzybooster/prexzy-md-v1-plugins_
 ╚══════════════════════╝ 
 _____________________________________
 
